@@ -3,7 +3,7 @@
 - 👀 I’m interested in swimming and playing the piano
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 Reach me by email
+- 📫 Reach me by email <haoyuanz302@gmail.com>
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm also an amateur physics enthusiast!
 
